@@ -1,6 +1,6 @@
 ## Overview
 
-The `py.exe` is a command line toll that comes with Python installation that help us doing version management.
+The `py.exe` is a command line tool that comes with Python installation that help us doing version management.
 ## Usage
 
 After installing Python on Windows, then we can use the `py` command for version management.
